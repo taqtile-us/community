@@ -6,6 +6,7 @@ labels: ''
 assignees: ''
 type: 'Bug'
 ---
+# Taqtile Bug Report # 
 
 **Describe the bug**
 A clear and concise description of what the bug is.
@@ -25,13 +26,13 @@ If applicable, add screenshots to help explain your problem.
 
 **Desktop (please complete the following information):**
  - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+ - Browser: [e.g. chrome, safari]
+ - Version: [e.g. 22]
 
 **Device (please complete the following information):**
  - Device: [e.g. HoloLens2]
  - OS: [e.g. Windows Holographic 24H2]
- - Taqtile Product Version [e.g. 4.2.1]
+ - Taqtile Product Version: [e.g. 4.2.1]
 
 **Additional context**
 Add any other context about the problem here.
