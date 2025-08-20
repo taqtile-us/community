@@ -1,10 +1,10 @@
 ---
-name: Bug report
-about: Create a report to help us improve
+name: Taqtile Bug
+about: Create a Manifest or Maker bug report
 title: ''
 labels: ''
 assignees: ''
-
+type: 'Bug'
 ---
 
 **Describe the bug**
@@ -28,11 +28,10 @@ If applicable, add screenshots to help explain your problem.
  - Browser [e.g. chrome, safari]
  - Version [e.g. 22]
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+**Device (please complete the following information):**
+ - Device: [e.g. HoloLens2]
+ - OS: [e.g. Windows Holographic 24H2]
+ - Taqtile Product Version [e.g. 4.2.1]
 
 **Additional context**
 Add any other context about the problem here.
